@@ -19,16 +19,14 @@ This project is ideal for managing collectibles like trading cards, with feature
 - Delete items with a confirmation step to prevent accidental deletions.
 
 ## Screenshots
-![8](https://github.com/user-attachments/assets/e116820c-c098-43f8-b3cf-295bdbf57cf1)
-![7](https://github.com/user-attachments/assets/9afa2991-f436-43c3-9a92-96c275c523be)
-![6](https://github.com/user-attachments/assets/a8dde3fb-411d-46d6-aed3-eee348ef6143)
-![5](https://github.com/user-attachments/assets/2878c57a-4326-4ffe-b49c-7845dc892438)
-![4](https://github.com/user-attachments/assets/84320ce1-7410-44db-b000-c789f47ca0b6)
-![3](https://github.com/user-attachments/assets/1ec32b6e-b5fe-4e1c-9b3d-e78ce7cb4dce)
-![2](https://github.com/user-attachments/assets/4d767741-72c7-451d-a581-921153bb7fc4)
-![1](https://github.com/user-attachments/assets/4e095051-bd96-4de1-91e6-9955e5b30906)
-
-
+![1](https://github.com/user-attachments/assets/ec2d0abc-dc73-41fd-b382-0850e26515db)
+![2](https://github.com/user-attachments/assets/a591fefa-6c75-47ae-85aa-11a772175592)
+![3](https://github.com/user-attachments/assets/0ce62e5f-0c67-46e9-aa52-44baf6cf8fc3)
+![4](https://github.com/user-attachments/assets/838cb820-53fe-41b3-bb9f-a57905d5f80d)
+![5](https://github.com/user-attachments/assets/1f8d0813-2a97-4ba3-b233-39161d31ab9b)
+![6](https://github.com/user-attachments/assets/77510841-b45a-443d-ac30-57960b8bb9f1)
+![7](https://github.com/user-attachments/assets/50bf631a-a130-4e7d-b3bd-fcb17a06f965)
+![8](https://github.com/user-attachments/assets/e3e6b194-736a-4bdf-a1f2-160c2ba207ce)
 
 ---
 
